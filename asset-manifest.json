@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WebReactRestaurant/static/css/main.6ae4970f.css",
+    "main.js": "/WebReactRestaurant/static/js/main.6bc7a285.js",
+    "static/js/787.496d51a4.chunk.js": "/WebReactRestaurant/static/js/787.496d51a4.chunk.js",
+    "static/media/banner.png": "/WebReactRestaurant/static/media/banner.9fad4a1972ce5c49c3e5.png",
+    "index.html": "/WebReactRestaurant/index.html",
+    "main.6ae4970f.css.map": "/WebReactRestaurant/static/css/main.6ae4970f.css.map",
+    "main.6bc7a285.js.map": "/WebReactRestaurant/static/js/main.6bc7a285.js.map",
+    "787.496d51a4.chunk.js.map": "/WebReactRestaurant/static/js/787.496d51a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ae4970f.css",
+    "static/js/main.6bc7a285.js"
+  ]
+}
